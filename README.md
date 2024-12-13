@@ -4,9 +4,9 @@ Bienvenue dans ce projet ! Cette application a été conçue sur base d'API's fo
 
 ## Fonctionnalités
 
--Creéation de zone "GéoFencing" permettant de délimiter un périmètre autour d'une addresse, permettant de notifier toute entrée ou sortie de ce périmètre d'un numéro de téléphone mobile renseigné.
--Cette application a pour but de protéger enfants, personnes agées, personnes malades ou bléssées en prévenant une personne de confiance de son entrée sortie de la zone définie (Domicile, Ecole, Hopital, Maison de retraite etc etc) 
--Si la personne est sortie de ce rayon, via une API nommée Device Location Retrieval, on peut retrouver la position de la dite personne, permettant par exemple a la famille d'agir si une personne atteinte d'Alzeihmer venait à s'égarer et oublier ou elle se trouve.
+- Création de zone "GéoFencing" permettant de délimiter un périmètre autour d'une addresse, permettant de notifier toute entrée ou sortie de ce périmètre d'un numéro de téléphone mobile renseigné.
+- Cette application a pour but de protéger enfants, personnes agées, personnes malades ou bléssées en prévenant une personne de confiance de son entrée sortie de la zone définie (Domicile, Ecole, Hopital, Maison de retraite etc etc) 
+- Si la personne est sortie de ce rayon, via une API nommée Device Location Retrieval, on peut retrouver la position de la dite personne, permettant par exemple a la famille d'agir si une personne atteinte d'Alzeihmer venait à s'égarer et oublier ou elle se trouve.
 
 
 ## Prérequis
