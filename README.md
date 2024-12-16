@@ -1,6 +1,6 @@
 # Safe Zones
 
-Bienvenue dans ce projet ! Cette application a été conçue sur base d'API's fournies par Orange, malheureusement celles-ci étaient en phase de béta et donc surement plus disponible a ce jour, 
+Bienvenue dans ce projet de groupe réalisé avec des camarades de classe! Cette application a été conçue sur base d'API's fournies par Orange, malheureusement celles-ci étaient en phase de béta et donc surement plus disponible a ce jour, 
 
 ## Fonctionnalités
 
